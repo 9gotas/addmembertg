@@ -7,9 +7,11 @@ Nosso bot permite que você adicione facilmente membros aos grupos do Telegram d
 
 # Resumo do código:
 
-1. Configurações: No início do código, você encontrará algumas configurações básicas, como a ID e o hash da API do Telegram, além do número de telefone associado à sua conta.
+# 1. Configurações:
+No início do código, você encontrará algumas configurações básicas, como a ID e o hash da API do Telegram, além do número de telefone associado à sua conta.
 
-2. Ler membros do arquivo CSV: O bot lê os detalhes dos membros de um arquivo CSV. Esses detalhes podem incluir o nome e o nome de usuário dos membros.
+# 2. Ler membros do arquivo CSV: 
+O bot lê os detalhes dos membros de um arquivo CSV. Esses detalhes podem incluir o nome e o nome de usuário dos membros.
 
 3. Verificar se o membro já está no grupo: Antes de adicionar um membro, o bot verifica se o membro já faz parte do grupo para evitar duplicatas.
 
